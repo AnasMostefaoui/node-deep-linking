@@ -1,0 +1,11 @@
+{
+  "name": "node-deep-linking",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:AnasMostefaoui/node-deep-linking.git",
+  "author": "Mohamed Anes MOSTEFAOUI <m.anas@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
